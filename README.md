@@ -2,6 +2,9 @@
 
 DEPLOYING REACT APP TO AZURE WEBAPP SERVICE AUTOMATED WITH AZURE DEVOPS PIPELINE
 
+![image](https://github.com/thulasigithub123/AzDevops_React_Webapp/assets/87015668/76952aa0-9705-4924-84e5-1d24699783a0)
+
+
 
 ## Project Structure
 
